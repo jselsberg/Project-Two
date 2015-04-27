@@ -1,12 +1,93 @@
-.k4kpic{
-	height: 10%;
+body{
+	background-color: #FFFFFF;
 }
 
+ol.breadcrumb{
+	display: inline-block;
+}
+
+.breadcrumb{
+	margin-left: auto;
+	margin-right: auto;
+	background-color: transparent;
+	font-size: large;
+	letter-spacing: 1px;
+	text-align: center;
+}
+
+a:active{
+	color: #5E412F;
+}
+
+a:visited{
+	color: #5E412F;
+}
+
+a:hover{
+	color: #F0A830;
+}
+
+.bar-text a{
+	font-size: x-large;
+	color: #0D6759;
+}
+
+li{
+	display: list-item;
+}
 
 h1{
 	text-align: center;
+	font-family: Lucida Bright, Georgia, serif;
+	color: #0D6759;
 }
 
 h4{
 	text-align: center;
+	color: #F07818;
+}
+
+p{
+	font-family: arial;
+}
+
+div.thumbnail{
+	background-color: #FCEBB6;
+}
+
+div.thumbnail h3{
+	color: #0D6759;
+	text-align: center;
+}
+
+div.thumbnail p{
+	color: #5E412F;
+	text-align: center;
+}
+
+form.review{
+	vertical-align: center;
+}
+
+a.btn{
+	background-color: #F07818;
+	color: #0D6759;
+}
+
+p.aboutp{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+ul.sports{
+	margin-left: 5%;
+}
+
+p.testp{
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+p.testp:hover{
+	color: black;
 }
