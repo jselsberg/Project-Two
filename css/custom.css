@@ -95,3 +95,9 @@ p.testp{
 p.testp:hover{
 	color: black;
 }
+
+.review{
+	margin-left: 37%;
+	margin-right: 37%;
+	color: #5E412F;
+}
