@@ -36,6 +36,11 @@ a:hover{
 	color: #0D6759;
 }
 
+.bar-text a:hover{
+	font-size: x-large;
+	color: #F07818;
+}
+
 li{
 	display: list-item;
 }
